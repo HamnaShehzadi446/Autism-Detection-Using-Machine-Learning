@@ -18,8 +18,8 @@ This project implements supervised machine learning algorithms to predict Autism
 
 1. Upload the project files, including:
 
-   * The main notebook/script
-   * `data.csv` (dataset)
+   * The main notebook (autism_detection.ipynb)
+   * `autism_data.csv` (dataset)
    * `visuals.py` (visualization helper)
 2. Ensure all files are in the same Colab session directory.
 3. Run the notebook cells sequentially.
@@ -28,9 +28,9 @@ This project implements supervised machine learning algorithms to predict Autism
 
 1. Place all project files in a single folder:
 
-   * The main Python script or notebook
-   * `data.csv`
-   * `visuals.py`
+   * The main notebook (autism_detection.ipynb)
+   * `autism_data.csv` (dataset)
+   * `visuals.py` (visualization helper)
 2. Open the folder in VS Code.
 3. Install required libraries:
 
